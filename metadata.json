@@ -1,0 +1,6 @@
+{
+  "name": "Strategic Direction Agent",
+  "description": "Turns high-level business problems into crisp, plain-English directional strategies and market sizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
